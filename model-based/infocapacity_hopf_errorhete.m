@@ -6,6 +6,7 @@ addpath('..\utils');
 rng(s);
 measure='err_hete'; 
 
+% G values obtained from hopf_DTI_Grange.m
 if condition==1
     G=0.1280;
 else
