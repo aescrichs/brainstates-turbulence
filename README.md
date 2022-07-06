@@ -2,7 +2,7 @@
 
 #Model-free
 1. model-free/SC_analysis_longrange.m
-2. model-free/turbulence_empirical_bynode
+2. model-free/turbulence_empirical.m
 
 #Model-based
 1. model-based/Compute_Hopf_Freq.m
